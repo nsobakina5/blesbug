@@ -1,0 +1,3 @@
+var OX_c9f3457d = '';
+OX_c9f3457d += "<"+"div class=\"moible-sidebar-top\"><"+"img src=\'https://www.cen.com.kh/app/eurotech/eurotech-300-250-desktop-v4.jpg\' width=\'300\' height=\'250\' alt=\'\' title=\'\' border=\'0\' /><"+"div id=\'beacon_92bd5a6303\' style=\'position: absolute; left: 0px; top: 0px; visibility: hidden;\'><"+"img src=\'https://cen.com.kh/adserver/www/delivery/lg.php?bannerid=19&amp;campaignid=12&amp;zoneid=7&amp;loc=https%3A%2F%2Fwww.cen.com.kh%2Farchives%2F113160.html%2F&amp;referer=https%3A%2F%2Fwww.google.com.kh%2F&amp;cb=92bd5a6303\' width=\'0\' height=\'0\' alt=\'\' style=\'width: 0px; height: 0px;\' /><"+"/div><"+"/div>\n";
+document.write(OX_c9f3457d);
